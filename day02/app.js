@@ -8,8 +8,14 @@
 //
 // alert("Its confirm");
 
- var a = confirm("Are you tried of those'What are those shoes'?");
-  alert("Well then you are in luck!!!")
-  alert("Come and buy our lastest shoes.")
-  prompt("Visa or paypal ?")
-  confirm("Are you sure?")
+  // var a = confirm("Are you tried of those'What are those shoes'?");
+  //  alert("Well then you are in luck!!!")
+  //  alert("Come and buy our lastest shoes.")
+  //  prompt("Visa or paypal ?")
+  //  confirm("Are you sure?")
+
+var username =  ('max ramos');
+var message;
+console.log(username);
+username = 'max'
+message = 'i hope this works'

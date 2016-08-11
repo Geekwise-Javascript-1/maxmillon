@@ -1,0 +1,33 @@
+main{
+  width:400px;
+  margin:0 auto;
+  padding:20px;
+  background-color:blue;
+}
+
+body{
+  width:100%;
+  /*display:-webkit-box;
+  -webkit-box-pack:center;*/
+}
+
+h1, #title{
+  margin-left:550px;
+}
+
+
+ul{
+  margin-left:386px;
+}
+
+#btn{
+  margin-left:539px;
+}
+ul, #todolist{
+      margin-left: 365px
+}
+
+
+body{
+  background-color:grey;
+}
